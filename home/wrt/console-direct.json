@@ -5,6 +5,11 @@
       "domain": [
         "gst.prod.dl.playstation.net"
       ]
+    },
+    {
+      "domain_suffix": [
+        "venus3d.com"
+      ]
     }
   ]
 }

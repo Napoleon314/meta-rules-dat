@@ -32,5 +32,6 @@ MetaCubeX 的 master 工作流会重新生成并强推 sing 发布分支。自�
 
 ## 附加分流规则
 
-`home/wrt/` 提供 PlayStation 下载域名与 Google DNS 例外两份 Source JSON。
+`home/wrt/` 提供直连例外与 Google DNS 例外两份 Source JSON。直连例外涵盖
+PlayStation 下载域名、`venus3d.com` 及其各级子域名。
 生成 `sing` 分支时保留这些文件及[规则说明](home/wrt/README.md)。

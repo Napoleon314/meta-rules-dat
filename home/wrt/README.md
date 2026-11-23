@@ -3,6 +3,6 @@
 | 文件 | 内容 |
 |---|---|
 | `dns-foreign.json` | Google 相关域名的 DNS 分流例外 |
-| `console-direct.json` | 精确匹配 PlayStation 下载域名 `gst.prod.dl.playstation.net` |
+| `console-direct.json` | PlayStation 下载域名 `gst.prod.dl.playstation.net`、`venus3d.com` 及其所有子域名的直连例外 |
 
 两份文件均为 sing-box Source JSON version 3，由引用端配置分流动作和更新间隔。
